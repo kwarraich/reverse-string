@@ -1,0 +1,8 @@
+class Solution(object):
+    def reverseString(self, s):
+        tempString = []
+        tempString = s[-1]
+        s = s[::-1]
+            
+            
+            
